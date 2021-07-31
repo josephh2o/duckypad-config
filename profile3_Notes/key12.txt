@@ -1,0 +1,10 @@
+ALT =
+
+
+
+STRING \bar
+
+
+
+SPACE
+
